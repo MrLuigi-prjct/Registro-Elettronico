@@ -9,7 +9,7 @@ Attributi docente: codFiscaleD materia annoInizio annoFine matricolaDoc
 Attributi studente: codFiscaleS annoInizio annoFine matricolaStu
 Le FOREIGN KEY codiceFiscale REFERENCE 
 ==============================================================================
-||                             QUERIES SQL
+||                             QUERIES SQL                                  ||
 ==============================================================================
 ------------------------------------------------------------------------------
 CREATE DATABASE registro_elettronico;
