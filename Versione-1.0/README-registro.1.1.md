@@ -10,7 +10,7 @@
 ||	  - Login (blu)                                                                  ||               
 ======================================================================================
 || 2. Home Page                                                                     ||
-||	- Immagine e titolo centrati                                                     ||
+||	- Immagine e titolo centrati                                                    ||
 ||  - Barra di navigazione con 5 pulsanti verticali che collegano a tutte le pagine ||
 ||  - Stile sfondo: grigio-blu                                                      ||
 ||  - Colori pulsanti: gialli + un pulsante nero "Info"                             ||
