@@ -4,13 +4,13 @@
 || Pagine*:                                                                         ||
 || 1.Pagina di Login                                                                ||
 ||  - Immagine e titolo centrati                                                    ||
-||	- Connessione al database per autenticazione *username/password*                ||
-||	- Due pulsanti														                                      ||
-||	  - Registrati (verde)                                                          ||
-||	  - Login (blu)                                                                 ||
+||	- Connessione al database per autenticazione *username/password*                 ||
+||	- Due pulsanti                                                                   ||
+||	  - Registrati (verde)                                                           ||
+||	  - Login (blu)                                                                  ||
 ======================================================================================
 || 2. Home Page                                                                     ||
-||	- Immagine e titolo centrati                                                    ||
+||	- Immagine e titolo centrati                                                     ||
 ||  - Barra di navigazione con 5 pulsanti verticali che collegano a tutte le pagine ||
 ||  - Stile sfondo: grigio-blu                                                      ||
 ||  - Colori pulsanti: gialli + un pulsante nero "Info"                             ||
@@ -43,7 +43,7 @@
 ======================================================================================
 || Funzionalità                                                                     ||
 || - Sistema di navigazione tra pagine                                              ||
-|| - Messaggi di errore e alert (utilizzando jQuery/JS)														  ||
+|| - Messaggi di errore e alert (utilizzando jQuery/JS)                             ||
 || - Design responsive                                                              ||
 ======================================================================================
  Rappresentazione Grafica                                                           ||
@@ -63,4 +63,4 @@
 || - Implementazione del framework Spring Boot                                      ||
 || - Miglioramento delle funzionalità di sicurezza                                  ||
 || - Ulteriori miglioramenti all'interfaccia utente                                 ||
-================================================================================================================
+======================================================================================
