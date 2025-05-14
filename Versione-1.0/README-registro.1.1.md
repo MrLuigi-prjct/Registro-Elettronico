@@ -1,5 +1,5 @@
 ======================================================================================
-||                             STRUTTURA DELL'APPLICAZIONE                          ||
+||                         STRUTTURA DELL'APPLICAZIONE                             ||
 ======================================================================================
 || Pagine*:                                                                         ||
 || 1.Pagina di Login                                                                ||
@@ -57,9 +57,9 @@
 |=====================================|                                             ||
 |<Testo Descrittivo> |                                                              ||
 |<Footer> |                                                                         ||
-|=====================================|                                             ||			
+|=====================================|                                             ||
 ======================================================================================
-|| Sviluppi Futuri                                                                  ||	
+|| Sviluppi Futuri                                                                  ||
 || - Implementazione del framework Spring Boot                                      ||
 || - Miglioramento delle funzionalità di sicurezza                                  ||
 || - Ulteriori miglioramenti all'interfaccia utente                                 ||
