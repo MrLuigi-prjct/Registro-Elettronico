@@ -8,7 +8,7 @@
 ======================================================================
 ||                  ARCHITETTURA MVC con SERVLET                    ||
 ======================================================================
-|| L'architettura Model-View-Controller (MVC) sepera le responsabilità| 
+|| L'architettura Model-View-Controller (MVC) sepera le responsabilità|
 || ➡️ Model: Gestisce la logica dei dati e l'interazione con il     ||
 ||          database                                                \|
 || ➡️ View: Presenta i dati all'utente, solitamente tramite JSP     ||
