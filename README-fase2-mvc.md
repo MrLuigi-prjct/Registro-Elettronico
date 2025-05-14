@@ -1,10 +1,10 @@
 ======================================================================
 ||      FASE 2: DIVISIONE DELLE RESPONIBILITA' DEI PROGRAMMI        ||
 ======================================================================
-- Connector: NomeDelConnector                                       ||
-- Creazione del database registro_elettronico                       ||
-- Architettura MVC (Model, VIew, Service, Controller)               ||
-- Impostazioni lato back-end (Servlet + Java classi)                ||
+||- Connector: NomeDelConnector                                     ||
+||- Creazione del database registro_elettronico                     ||
+||- Architettura MVC (Model, VIew, Service, Controller)             ||
+||- Impostazioni lato back-end (Servlet + Java classi)              ||
 ======================================================================
 ||                  ARCHITETTURA MVC con SERVLET                    ||
 ======================================================================
@@ -20,7 +20,7 @@
 ======================================================================
 ||📂src/                                                            ||
 ||  |-controller/      // Servlet che gestisce le richieste         \|
-||  |-model/	       // Classi Java che rappresenta i dati        ||
+||  |-model/           // Classi Java che rappresenta i dati        ||
 ||  |-dao/             // Classi per l'accesso al database          ||
 ||  |-service/         // Logica di business                        ||
 ||  |-util/            // Classi di utilitò es.(DBConnection)       ||
