@@ -1,13 +1,13 @@
 ======================================================================================
-||                         STRUTTURA DELL'APPLICAZIONE                             ||
+||                         STRUTTURA DELL'APPLICAZIONE                              ||
 ======================================================================================
 || Pagine*:                                                                         ||
 || 1.Pagina di Login                                                                ||
 ||  - Immagine e titolo centrati                                                    ||
 ||	- Connessione al database per autenticazione *username/password*                 ||
-||	- Due pulsanti                                                                   ||
-||	  - Registrati (verde)                                                           ||
-||	  - Login (blu)                                                                  ||
+||	- Due pulsanti                                                                   ||              
+||	  - Registrati (verde)                                                           ||               
+||	  - Login (blu)                                                                  ||               
 ======================================================================================
 || 2. Home Page                                                                     ||
 ||	- Immagine e titolo centrati                                                     ||
